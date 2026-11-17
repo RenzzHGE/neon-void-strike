@@ -1,0 +1,7 @@
+Kerjakan make fun. Kejar top 3 jika ada yang reject perbaiki. Jangan berhenti sebelum top 3.
+
+Build and submit a make.fun best-game-01 entry. Competition: best-game-01, "Make the best game", $1,000, 10-place table. Entries close 2026-11-18T18:00:00Z. The top 3 games are hosted and played live. Judged by a house AI judge on a dossier: it sees mostly the screenshots (contact sheet: cover on top, others below) plus a short source outline (file paths, sizes, first declarations). So screenshots must show the full loop (title/start, gameplay with HUD, win/lose/score screen) and file/function names must be clear.
+
+Game: a polished NEON ARCADE SPACE SHOOTER. Complete and original: waves of enemies that get harder, power-ups, a boss every few waves, HUD (score, lives, wave, high score), start screen, pause, game-over + restart, WebAudio sound effects, responsive keyboard+mouse controls. Must run offline from static files (game/index.html) in desktop Chrome with NO network requests. Plain JavaScript + Canvas. All art/sound/names original work.
+
+Work only in ~/workspace/makefun/best-game-01/game-a/. Kit: ~/workspace/makefun/best-game-01/best-game-01-kit/. Name the game something original, e.g. NEON VOID STRIKE, repo RenzzHGE/neon-void-strike. Free only. Do not copy GROVEWARDEN or any existing game. Do not submit to any other competition.
